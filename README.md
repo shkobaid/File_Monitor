@@ -6,6 +6,10 @@ DEPENDENCIES:
 
 FILE STRUCTURE: 
   
+File_Monitor
+|
+|- LOGS
+
 File_Monitor 
 |  
 |- LOGS  
