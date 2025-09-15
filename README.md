@@ -2,7 +2,7 @@
 
 DEPENDENCIES:  
   
-1) sudo apt install openssl  
+1) sudo apt install openssl
 
 FILE STRUCTURE: 
   
@@ -22,5 +22,5 @@ chmod +x setup.sh
 
 NOTES:
 
-Once setup.sh is run; add to crontab appropriate command for script.sh  ( 0 * * * * bash <path>/File_Monitor/script.sh
-If setup is run again, new backup file is created and previous one is deleted, so change file location of previous backup if needed
+[>] Once setup.sh is run; add to crontab appropriate command for script.sh  ( 0 * * * * bash <path>/File_Monitor/script.sh
+[!] If setup is run again, new backup file is created and previous one is deleted, so change file location of previous backup if needed
